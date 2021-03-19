@@ -4,7 +4,7 @@ billiard==3.6.3.0
 celery==4.4.2
 Django==3.0.5
 django-rest-framework==0.1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 flower==0.9.4
 humanize==0.5.1
 kombu==4.6.8
